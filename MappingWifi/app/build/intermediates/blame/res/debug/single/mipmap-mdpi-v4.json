@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\MappingWifi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\flo\\MappingWifi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
