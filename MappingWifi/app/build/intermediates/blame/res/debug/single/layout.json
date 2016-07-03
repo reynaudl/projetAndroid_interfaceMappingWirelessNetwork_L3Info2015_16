@@ -1,642 +1,198 @@
 [
     {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interface_mapping.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\src\\main\\res\\layout\\interface_mapping.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interface_mapping.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\src\\main\\res\\layout\\interface_mapping.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interface_parametre.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\src\\main\\res\\layout\\interface_parametre.xml"
     },
     {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interface_parametre.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\src\\main\\res\\layout\\interface_parametre.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
     },
     {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_heat_maps.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\src\\main\\res\\layout\\activity_heat_maps.xml"
     },
     {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_progress.xml"
     },
     {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
     },
     {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interface_mapping.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\src\\main\\res\\layout\\interface_mapping.xml"
     },
     {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interface_mapping.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\src\\main\\res\\layout\\interface_mapping.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_item_prediction.xml"
     },
     {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
     },
     {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interface_map.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\src\\main\\res\\layout\\interface_map.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interface_map.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\src\\main\\res\\layout\\interface_map.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interface_mapping.xml",
-        "source": "E:\\MappingWifi\\app\\src\\main\\res\\layout\\interface_mapping.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\MappingWifi\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interface_parametre.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\src\\main\\res\\layout\\interface_parametre.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interface_map.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\src\\main\\res\\layout\\interface_map.xml"
     }
 ]

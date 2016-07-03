@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MappingWifi</string>
+    <string name="title_activity_heat_maps">HeatMapWifi</string>
 </resources>

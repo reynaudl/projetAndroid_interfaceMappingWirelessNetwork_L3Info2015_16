@@ -48,15 +48,20 @@ public class MainActivity extends AppCompatActivity {
                     startActivity(myIntent);
                     break;
 
-                /*case R.id.btnMap:
-                    myIntent = new Intent(MainActivity.this, SupportActivity.class);
+                case R.id.btnMapping:
+                    myIntent = new Intent(MainActivity.this, HeatMapsActivity.class);
                     startActivity(myIntent);
                     break;
 
-                case R.id.btnWifi:
-                    myIntent = new Intent(MainActivity.this, ContactActivity.class);
+                case R.id.btnParametre:
+                    myIntent = new Intent(MainActivity.this, ParametreActivity.class);
                     startActivity(myIntent);
-                    break;*/
+                    break;
+
+                case R.id.btnQuitter:
+                    finish();
+                    System.exit(0);
+                    break;
             }
         }
     };

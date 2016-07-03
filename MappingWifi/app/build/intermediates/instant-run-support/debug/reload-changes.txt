@@ -1,8 +1,0 @@
-CHANGED,C:\Users\Boyrie\Documents\UPVD\Android\MappingWifi\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\boyrie\mappingwifi\R$style$override.class
-CHANGED,C:\Users\Boyrie\Documents\UPVD\Android\MappingWifi\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\boyrie\mappingwifi\R$layout$override.class
-CHANGED,C:\Users\Boyrie\Documents\UPVD\Android\MappingWifi\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\boyrie\mappingwifi\R$styleable$override.class
-CHANGED,C:\Users\Boyrie\Documents\UPVD\Android\MappingWifi\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\boyrie\mappingwifi\MainActivity$1$override.class
-CHANGED,C:\Users\Boyrie\Documents\UPVD\Android\MappingWifi\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\boyrie\mappingwifi\R$string$override.class
-CHANGED,C:\Users\Boyrie\Documents\UPVD\Android\MappingWifi\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\boyrie\mappingwifi\R$mipmap$override.class
-CHANGED,C:\Users\Boyrie\Documents\UPVD\Android\MappingWifi\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$layout$override.class
-CHANGED,C:\Users\Boyrie\Documents\UPVD\Android\MappingWifi\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

@@ -45,15 +45,15 @@ public class MapActivity extends Activity {
                         startActivity(myIntent);
                         break;
 
-                /*case R.id.btnMap:
-                    myIntent = new Intent(MainActivity.this, SupportActivity.class);
+                case R.id.btnMap:
+                    myIntent = new Intent(MapActivity.this, HeatMapsActivity.class);
                     startActivity(myIntent);
                     break;
 
                 case R.id.btnWifi:
-                    myIntent = new Intent(MainActivity.this, ContactActivity.class);
+                    myIntent = new Intent(MapActivity.this, ParametreActivity.class);
                     startActivity(myIntent);
-                    break;*/
+                    break;
                 }
             }
         };

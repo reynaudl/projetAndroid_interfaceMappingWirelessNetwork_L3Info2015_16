@@ -1,18 +1,6 @@
 [
     {
-        "merged": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "D:\\IMERIR\\fac\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v23\\abc_color_highlight_material.xml"
-    },
-    {
-        "merged": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "E:\\flo\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v23\\abc_color_highlight_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Users\\Boyrie\\Documents\\UPVD\\Android\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v23\\abc_color_highlight_material.xml"
-    },
-    {
-        "merged": "E:\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "E:\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v23\\abc_color_highlight_material.xml"
     }
 ]
