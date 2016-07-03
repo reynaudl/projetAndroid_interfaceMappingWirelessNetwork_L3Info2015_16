@@ -4,30 +4,27 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="9741127480202"
+    timestamp="27037925591973"
     token="8434043838181996227" >
 
     <task
         name="javac"
-        duration="1176" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="471" />
+        duration="0" />
     <task
         name="verifier"
-        duration="99" />
+        duration="0" />
 
-    <artifact
-        location="D:\GitHub\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\MappingWifi\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
-
-    <build timestamp="9741127480202" >
+    <build timestamp="26375340642502" >
         <artifact
             location="D:\GitHub\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\MappingWifi\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
+    <build timestamp="27037925591973" />
 
 </instant-run>
