@@ -1,12 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
+<items version="2" />
 
-    <item
-        jar="D:\GitHub\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\MappingWifi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="7cfe4d0a2797289b946ea5cb9011118eaf1d3466">
-        <dex dex="D:\GitHub\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\MappingWifi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4590f5f4f9dca4dbc6ed2a9add0fcd38ca71355e\classes.dex" />
-    </item>
-
-</items>

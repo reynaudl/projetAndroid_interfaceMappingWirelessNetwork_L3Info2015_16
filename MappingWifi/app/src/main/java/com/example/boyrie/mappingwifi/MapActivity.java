@@ -11,6 +11,7 @@ import android.net.wifi.WifiManager;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
@@ -28,10 +29,13 @@ public class MapActivity extends Activity {
 
     WifiManager wifiManagerHeatMap;
     ListView listViewWifi;
+    WifiScanReceiver wifiReciever;
     TextView textStatus;
     Button buttonScan;
     int size = 0;
     List<ScanResult> results;
+    String wifis[];
+
 
     String ITEM_KEY = "key";
     ArrayList<HashMap<String, String>> arraylist = new ArrayList<HashMap<String, String>>();
@@ -50,24 +54,24 @@ public class MapActivity extends Activity {
         listViewWifi = (ListView)findViewById(R.id.listView);
 
         //Gestion de la détection des réseaux wifi
-        wifiManagerHeatMap = (WifiManager) getSystemService(Context.WIFI_SERVICE);
-        if (wifiManagerHeatMap.isWifiEnabled() == false)
-        {
-            Toast.makeText(getApplicationContext(), "wifi is disabled..making it enabled", Toast.LENGTH_LONG).show();
-            wifiManagerHeatMap.setWifiEnabled(true);
-        }
-         this.adapter = new SimpleAdapter(MapActivity.this, arraylist, R.layout.interface_map, new String[] { ITEM_KEY }, new int[] { R.id.listView });
-        listViewWifi.setAdapter(this.adapter);
-
-        registerReceiver(new BroadcastReceiver()
-        {
-            @Override
-            public void onReceive(Context c, Intent intent)
-            {
-                results = wifiManagerHeatMap.getScanResults();
-                size = results.size();
-            }
-        }, new IntentFilter(WifiManager.SCAN_RESULTS_AVAILABLE_ACTION));
+//        wifiManagerHeatMap = (WifiManager) getSystemService(Context.WIFI_SERVICE);
+//        if (wifiManagerHeatMap.isWifiEnabled() == false)
+//        {
+//            Toast.makeText(getApplicationContext(), "wifi is disabled..making it enabled", Toast.LENGTH_LONG).show();
+//            wifiManagerHeatMap.setWifiEnabled(true);
+//        }
+//         this.adapter = new SimpleAdapter(MapActivity.this, arraylist, R.layout.interface_map, new String[] { ITEM_KEY }, new int[] { R.id.listView });
+//        listViewWifi.setAdapter(this.adapter);
+//
+//        registerReceiver(new BroadcastReceiver()
+//        {
+//            @Override
+//            public void onReceive(Context c, Intent intent)
+//            {
+//                results = wifiManagerHeatMap.getScanResults();
+//                size = results.size();
+//            }
+//        }, new IntentFilter(WifiManager.SCAN_RESULTS_AVAILABLE_ACTION));
 
 
         //Bloque la rotation
@@ -82,6 +86,11 @@ public class MapActivity extends Activity {
         }catch (NullPointerException e){
             Log.e("Exception Recu", "Onclick Error");
         }
+
+
+        wifiManagerHeatMap=(WifiManager)getSystemService(Context.WIFI_SERVICE);
+        wifiReciever = new WifiScanReceiver();
+        wifiManagerHeatMap.startScan();
 
     }
 
@@ -110,4 +119,27 @@ public class MapActivity extends Activity {
                 }
             }
         };
+
+    protected void onPause() {
+        unregisterReceiver(wifiReciever);
+        super.onPause();
+    }
+
+    protected void onResume() {
+        registerReceiver(wifiReciever, new IntentFilter(WifiManager.SCAN_RESULTS_AVAILABLE_ACTION));
+        super.onResume();
+    }
+
+    private class WifiScanReceiver extends BroadcastReceiver{
+        public void onReceive(Context c, Intent intent) {
+            List<ScanResult> wifiScanList = wifiManagerHeatMap.getScanResults();
+            wifis = new String[wifiScanList.size()];
+
+            for(int i = 0; i < wifiScanList.size(); i++){
+                wifis[i] = ((wifiScanList.get(i)).toString());
+            }
+            listViewWifi.setAdapter(new ArrayAdapter<String>(getApplicationContext(),android.R.layout.simple_list_item_1,wifis));
+        }
+    }
+
 }
