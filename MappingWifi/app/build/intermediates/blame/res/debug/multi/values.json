@@ -3396,15 +3396,7 @@
                     "endOffset": 45615
                 },
                 "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\src\\debug\\res\\values\\google_maps_api.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 824,
-                        "endLine": 19,
-                        "endColumn": 13,
-                        "endOffset": 974
-                    }
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\src\\debug\\res\\values\\google_maps_api.xml"
                 }
             },
             {
@@ -5440,9 +5432,30 @@
                     "startLine": 1331,
                     "startColumn": 4,
                     "startOffset": 109267,
-                    "endLine": 1368,
+                    "endLine": 1334,
                     "endColumn": 12,
-                    "endOffset": 112124
+                    "endOffset": 109448
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1335,
+                    "startColumn": 4,
+                    "startOffset": 109453,
+                    "endLine": 1372,
+                    "endColumn": 12,
+                    "endOffset": 112310
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5450,12 +5463,12 @@
             },
             {
                 "to": {
-                    "startLine": 1369,
+                    "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 112129,
-                    "endLine": 1407,
+                    "startOffset": 112315,
+                    "endLine": 1411,
                     "endColumn": 12,
-                    "endOffset": 115126
+                    "endOffset": 115312
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5463,11 +5476,11 @@
             },
             {
                 "to": {
-                    "startLine": 1408,
+                    "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 115131,
+                    "startOffset": 115317,
                     "endColumn": 61,
-                    "endOffset": 115188
+                    "endOffset": 115374
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5475,12 +5488,12 @@
             },
             {
                 "to": {
-                    "startLine": 1409,
+                    "startLine": 1413,
                     "startColumn": 4,
-                    "startOffset": 115193,
-                    "endLine": 1418,
+                    "startOffset": 115379,
+                    "endLine": 1422,
                     "endColumn": 12,
-                    "endOffset": 115818
+                    "endOffset": 116004
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5488,12 +5501,12 @@
             },
             {
                 "to": {
-                    "startLine": 1419,
+                    "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 115823,
-                    "endLine": 1427,
+                    "startOffset": 116009,
+                    "endLine": 1431,
                     "endColumn": 12,
-                    "endOffset": 116432
+                    "endOffset": 116618
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5501,11 +5514,11 @@
             },
             {
                 "to": {
-                    "startLine": 1428,
+                    "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 116437,
+                    "startOffset": 116623,
                     "endColumn": 85,
-                    "endOffset": 116518
+                    "endOffset": 116704
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5513,25 +5526,12 @@
             },
             {
                 "to": {
-                    "startLine": 1429,
+                    "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 116523,
-                    "endLine": 1430,
-                    "endColumn": 12,
-                    "endOffset": 116631
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1431,
-                    "startColumn": 4,
-                    "startOffset": 116636,
+                    "startOffset": 116709,
                     "endLine": 1434,
                     "endColumn": 12,
-                    "endOffset": 116860
+                    "endOffset": 116817
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5541,10 +5541,10 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 116865,
-                    "endLine": 1437,
+                    "startOffset": 116822,
+                    "endLine": 1438,
                     "endColumn": 12,
-                    "endOffset": 117020
+                    "endOffset": 117046
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5552,12 +5552,12 @@
             },
             {
                 "to": {
-                    "startLine": 1438,
+                    "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 117025,
-                    "endLine": 1440,
+                    "startOffset": 117051,
+                    "endLine": 1441,
                     "endColumn": 12,
-                    "endOffset": 117172
+                    "endOffset": 117206
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5565,12 +5565,12 @@
             },
             {
                 "to": {
-                    "startLine": 1441,
+                    "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 117177,
-                    "endLine": 1443,
+                    "startOffset": 117211,
+                    "endLine": 1444,
                     "endColumn": 12,
-                    "endOffset": 117343
+                    "endOffset": 117358
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5578,12 +5578,12 @@
             },
             {
                 "to": {
-                    "startLine": 1444,
+                    "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 117348,
-                    "endLine": 1446,
+                    "startOffset": 117363,
+                    "endLine": 1447,
                     "endColumn": 12,
-                    "endOffset": 117510
+                    "endOffset": 117529
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5591,12 +5591,12 @@
             },
             {
                 "to": {
-                    "startLine": 1447,
+                    "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 117515,
+                    "startOffset": 117534,
                     "endLine": 1450,
                     "endColumn": 12,
-                    "endOffset": 117753
+                    "endOffset": 117696
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5606,10 +5606,10 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 117758,
-                    "endLine": 1453,
+                    "startOffset": 117701,
+                    "endLine": 1454,
                     "endColumn": 12,
-                    "endOffset": 117923
+                    "endOffset": 117939
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5617,12 +5617,12 @@
             },
             {
                 "to": {
-                    "startLine": 1454,
+                    "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 117928,
-                    "endLine": 1456,
+                    "startOffset": 117944,
+                    "endLine": 1457,
                     "endColumn": 12,
-                    "endOffset": 118096
+                    "endOffset": 118109
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5630,12 +5630,12 @@
             },
             {
                 "to": {
-                    "startLine": 1457,
+                    "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 118101,
-                    "endLine": 1459,
+                    "startOffset": 118114,
+                    "endLine": 1460,
                     "endColumn": 12,
-                    "endOffset": 118267
+                    "endOffset": 118282
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5643,12 +5643,12 @@
             },
             {
                 "to": {
-                    "startLine": 1460,
+                    "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 118272,
+                    "startOffset": 118287,
                     "endLine": 1463,
                     "endColumn": 12,
-                    "endOffset": 118541
+                    "endOffset": 118453
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5658,10 +5658,10 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 118546,
-                    "endLine": 1466,
+                    "startOffset": 118458,
+                    "endLine": 1467,
                     "endColumn": 12,
-                    "endOffset": 118740
+                    "endOffset": 118727
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5669,12 +5669,12 @@
             },
             {
                 "to": {
-                    "startLine": 1467,
+                    "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 118745,
+                    "startOffset": 118732,
                     "endLine": 1470,
                     "endColumn": 12,
-                    "endOffset": 118945
+                    "endOffset": 118926
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5684,10 +5684,10 @@
                 "to": {
                     "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 118950,
+                    "startOffset": 118931,
                     "endLine": 1474,
                     "endColumn": 12,
-                    "endOffset": 119275
+                    "endOffset": 119131
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5697,45 +5697,10 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 119280,
-                    "endColumn": 83,
-                    "endOffset": 119359
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1476,
-                    "startColumn": 4,
-                    "startOffset": 119364,
-                    "endColumn": 95,
-                    "endOffset": 119455
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1477,
-                    "startColumn": 4,
-                    "startOffset": 119460,
-                    "endColumn": 95,
-                    "endOffset": 119551
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1478,
-                    "startColumn": 4,
-                    "startOffset": 119556,
-                    "endColumn": 97,
-                    "endOffset": 119649
+                    "startOffset": 119136,
+                    "endLine": 1478,
+                    "endColumn": 12,
+                    "endOffset": 119461
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5745,9 +5710,9 @@
                 "to": {
                     "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 119654,
-                    "endColumn": 99,
-                    "endOffset": 119749
+                    "startOffset": 119466,
+                    "endColumn": 83,
+                    "endOffset": 119545
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5757,9 +5722,9 @@
                 "to": {
                     "startLine": 1480,
                     "startColumn": 4,
-                    "startOffset": 119754,
-                    "endColumn": 101,
-                    "endOffset": 119851
+                    "startOffset": 119550,
+                    "endColumn": 95,
+                    "endOffset": 119641
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5769,9 +5734,9 @@
                 "to": {
                     "startLine": 1481,
                     "startColumn": 4,
-                    "startOffset": 119856,
-                    "endColumn": 101,
-                    "endOffset": 119953
+                    "startOffset": 119646,
+                    "endColumn": 95,
+                    "endOffset": 119737
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5781,9 +5746,9 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 119958,
-                    "endColumn": 101,
-                    "endOffset": 120055
+                    "startOffset": 119742,
+                    "endColumn": 97,
+                    "endOffset": 119835
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5793,9 +5758,9 @@
                 "to": {
                     "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 120060,
-                    "endColumn": 101,
-                    "endOffset": 120157
+                    "startOffset": 119840,
+                    "endColumn": 99,
+                    "endOffset": 119935
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5805,9 +5770,9 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 120162,
+                    "startOffset": 119940,
                     "endColumn": 101,
-                    "endOffset": 120259
+                    "endOffset": 120037
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5817,9 +5782,9 @@
                 "to": {
                     "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 120264,
-                    "endColumn": 99,
-                    "endOffset": 120359
+                    "startOffset": 120042,
+                    "endColumn": 101,
+                    "endOffset": 120139
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5829,9 +5794,9 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 120364,
-                    "endColumn": 95,
-                    "endOffset": 120455
+                    "startOffset": 120144,
+                    "endColumn": 101,
+                    "endOffset": 120241
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5841,9 +5806,9 @@
                 "to": {
                     "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 120460,
-                    "endColumn": 111,
-                    "endOffset": 120567
+                    "startOffset": 120246,
+                    "endColumn": 101,
+                    "endOffset": 120343
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5853,9 +5818,9 @@
                 "to": {
                     "startLine": 1488,
                     "startColumn": 4,
-                    "startOffset": 120572,
-                    "endColumn": 128,
-                    "endOffset": 120696
+                    "startOffset": 120348,
+                    "endColumn": 101,
+                    "endOffset": 120445
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5865,9 +5830,9 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 120701,
-                    "endColumn": 122,
-                    "endOffset": 120819
+                    "startOffset": 120450,
+                    "endColumn": 99,
+                    "endOffset": 120545
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5877,10 +5842,21 @@
                 "to": {
                     "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 120824,
-                    "endLine": 1491,
-                    "endColumn": 12,
-                    "endOffset": 120973
+                    "startOffset": 120550,
+                    "endColumn": 95,
+                    "endOffset": 120641
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1491,
+                    "startColumn": 4,
+                    "startOffset": 120646,
+                    "endColumn": 111,
+                    "endOffset": 120753
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5890,10 +5866,21 @@
                 "to": {
                     "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 120978,
-                    "endLine": 1493,
-                    "endColumn": 12,
-                    "endOffset": 121127
+                    "startOffset": 120758,
+                    "endColumn": 128,
+                    "endOffset": 120882
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1493,
+                    "startColumn": 4,
+                    "startOffset": 120887,
+                    "endColumn": 122,
+                    "endOffset": 121005
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5903,21 +5890,10 @@
                 "to": {
                     "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 121132,
-                    "endColumn": 97,
-                    "endOffset": 121225
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1495,
-                    "startColumn": 4,
-                    "startOffset": 121230,
-                    "endColumn": 113,
-                    "endOffset": 121339
+                    "startOffset": 121010,
+                    "endLine": 1495,
+                    "endColumn": 12,
+                    "endOffset": 121159
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5927,9 +5903,10 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 121344,
-                    "endColumn": 93,
-                    "endOffset": 121433
+                    "startOffset": 121164,
+                    "endLine": 1497,
+                    "endColumn": 12,
+                    "endOffset": 121313
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5937,12 +5914,11 @@
             },
             {
                 "to": {
-                    "startLine": 1497,
+                    "startLine": 1498,
                     "startColumn": 4,
-                    "startOffset": 121438,
-                    "endLine": 1498,
-                    "endColumn": 12,
-                    "endOffset": 121573
+                    "startOffset": 121318,
+                    "endColumn": 97,
+                    "endOffset": 121411
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5952,10 +5928,21 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 121578,
-                    "endLine": 1500,
-                    "endColumn": 12,
-                    "endOffset": 121707
+                    "startOffset": 121416,
+                    "endColumn": 113,
+                    "endOffset": 121525
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1500,
+                    "startColumn": 4,
+                    "startOffset": 121530,
+                    "endColumn": 93,
+                    "endOffset": 121619
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5965,21 +5952,10 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 121712,
-                    "endColumn": 95,
-                    "endOffset": 121803
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1502,
-                    "startColumn": 4,
-                    "startOffset": 121808,
-                    "endColumn": 111,
-                    "endOffset": 121915
+                    "startOffset": 121624,
+                    "endLine": 1502,
+                    "endColumn": 12,
+                    "endOffset": 121759
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -5989,21 +5965,10 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 121920,
-                    "endColumn": 99,
-                    "endOffset": 122015
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1504,
-                    "startColumn": 4,
-                    "startOffset": 122020,
-                    "endColumn": 115,
-                    "endOffset": 122131
+                    "startOffset": 121764,
+                    "endLine": 1504,
+                    "endColumn": 12,
+                    "endOffset": 121893
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6013,9 +5978,9 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 122136,
+                    "startOffset": 121898,
                     "endColumn": 95,
-                    "endOffset": 122227
+                    "endOffset": 121989
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6025,9 +5990,9 @@
                 "to": {
                     "startLine": 1506,
                     "startColumn": 4,
-                    "startOffset": 122232,
+                    "startOffset": 121994,
                     "endColumn": 111,
-                    "endOffset": 122339
+                    "endOffset": 122101
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6037,10 +6002,21 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 122344,
-                    "endLine": 1508,
-                    "endColumn": 12,
-                    "endOffset": 122479
+                    "startOffset": 122106,
+                    "endColumn": 99,
+                    "endOffset": 122201
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1508,
+                    "startColumn": 4,
+                    "startOffset": 122206,
+                    "endColumn": 115,
+                    "endOffset": 122317
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6050,9 +6026,9 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 122484,
-                    "endColumn": 135,
-                    "endOffset": 122615
+                    "startOffset": 122322,
+                    "endColumn": 95,
+                    "endOffset": 122413
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6062,10 +6038,9 @@
                 "to": {
                     "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 122620,
-                    "endLine": 1511,
-                    "endColumn": 12,
-                    "endOffset": 122779
+                    "startOffset": 122418,
+                    "endColumn": 111,
+                    "endOffset": 122525
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6073,11 +6048,12 @@
             },
             {
                 "to": {
-                    "startLine": 1512,
+                    "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 122784,
-                    "endColumn": 129,
-                    "endOffset": 122909
+                    "startOffset": 122530,
+                    "endLine": 1512,
+                    "endColumn": 12,
+                    "endOffset": 122665
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6087,10 +6063,9 @@
                 "to": {
                     "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 122914,
-                    "endLine": 1514,
-                    "endColumn": 12,
-                    "endOffset": 123067
+                    "startOffset": 122670,
+                    "endColumn": 135,
+                    "endOffset": 122801
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6098,12 +6073,24 @@
             },
             {
                 "to": {
-                    "startLine": 1515,
+                    "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 123072,
-                    "endLine": 1516,
+                    "startOffset": 122806,
+                    "endLine": 1515,
                     "endColumn": 12,
-                    "endOffset": 123217
+                    "endOffset": 122965
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1516,
+                    "startColumn": 4,
+                    "startOffset": 122970,
+                    "endColumn": 129,
+                    "endOffset": 123095
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6113,22 +6100,10 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 123222,
-                    "endColumn": 140,
-                    "endOffset": 123358
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1518,
-                    "startColumn": 4,
-                    "startOffset": 123363,
-                    "endLine": 1519,
+                    "startOffset": 123100,
+                    "endLine": 1518,
                     "endColumn": 12,
-                    "endOffset": 123502
+                    "endOffset": 123253
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6136,11 +6111,12 @@
             },
             {
                 "to": {
-                    "startLine": 1520,
+                    "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 123507,
-                    "endColumn": 134,
-                    "endOffset": 123637
+                    "startOffset": 123258,
+                    "endLine": 1520,
+                    "endColumn": 12,
+                    "endOffset": 123403
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6150,9 +6126,9 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 123642,
-                    "endColumn": 111,
-                    "endOffset": 123749
+                    "startOffset": 123408,
+                    "endColumn": 140,
+                    "endOffset": 123544
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6162,9 +6138,10 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 123754,
-                    "endColumn": 127,
-                    "endOffset": 123877
+                    "startOffset": 123549,
+                    "endLine": 1523,
+                    "endColumn": 12,
+                    "endOffset": 123688
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6172,12 +6149,11 @@
             },
             {
                 "to": {
-                    "startLine": 1523,
+                    "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 123882,
-                    "endLine": 1524,
-                    "endColumn": 12,
-                    "endOffset": 124013
+                    "startOffset": 123693,
+                    "endColumn": 134,
+                    "endOffset": 123823
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6187,10 +6163,21 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 124018,
-                    "endLine": 1526,
-                    "endColumn": 12,
-                    "endOffset": 124155
+                    "startOffset": 123828,
+                    "endColumn": 111,
+                    "endOffset": 123935
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1526,
+                    "startColumn": 4,
+                    "startOffset": 123940,
+                    "endColumn": 127,
+                    "endOffset": 124063
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6200,10 +6187,10 @@
                 "to": {
                     "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 124160,
+                    "startOffset": 124068,
                     "endLine": 1528,
                     "endColumn": 12,
-                    "endOffset": 124297
+                    "endOffset": 124199
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6213,21 +6200,10 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 124302,
-                    "endColumn": 111,
-                    "endOffset": 124409
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1530,
-                    "startColumn": 4,
-                    "startOffset": 124414,
-                    "endColumn": 139,
-                    "endOffset": 124549
+                    "startOffset": 124204,
+                    "endLine": 1530,
+                    "endColumn": 12,
+                    "endOffset": 124341
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6237,21 +6213,10 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 124554,
-                    "endColumn": 67,
-                    "endOffset": 124617
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1532,
-                    "startColumn": 4,
-                    "startOffset": 124622,
-                    "endColumn": 72,
-                    "endOffset": 124690
+                    "startOffset": 124346,
+                    "endLine": 1532,
+                    "endColumn": 12,
+                    "endOffset": 124483
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6261,9 +6226,9 @@
                 "to": {
                     "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 124695,
-                    "endColumn": 73,
-                    "endOffset": 124764
+                    "startOffset": 124488,
+                    "endColumn": 111,
+                    "endOffset": 124595
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6273,9 +6238,9 @@
                 "to": {
                     "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 124769,
-                    "endColumn": 72,
-                    "endOffset": 124837
+                    "startOffset": 124600,
+                    "endColumn": 139,
+                    "endOffset": 124735
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6285,9 +6250,9 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 124842,
-                    "endColumn": 73,
-                    "endOffset": 124911
+                    "startOffset": 124740,
+                    "endColumn": 67,
+                    "endOffset": 124803
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6297,10 +6262,21 @@
                 "to": {
                     "startLine": 1536,
                     "startColumn": 4,
-                    "startOffset": 124916,
-                    "endLine": 1537,
-                    "endColumn": 12,
-                    "endOffset": 125057
+                    "startOffset": 124808,
+                    "endColumn": 72,
+                    "endOffset": 124876
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1537,
+                    "startColumn": 4,
+                    "startOffset": 124881,
+                    "endColumn": 73,
+                    "endOffset": 124950
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6310,10 +6286,21 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 125062,
-                    "endLine": 1539,
-                    "endColumn": 12,
-                    "endOffset": 125201
+                    "startOffset": 124955,
+                    "endColumn": 72,
+                    "endOffset": 125023
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1539,
+                    "startColumn": 4,
+                    "startOffset": 125028,
+                    "endColumn": 73,
+                    "endOffset": 125097
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6323,10 +6310,10 @@
                 "to": {
                     "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 125206,
+                    "startOffset": 125102,
                     "endLine": 1541,
                     "endColumn": 12,
-                    "endOffset": 125339
+                    "endOffset": 125243
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6336,21 +6323,10 @@
                 "to": {
                     "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 125344,
-                    "endColumn": 65,
-                    "endOffset": 125405
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1543,
-                    "startColumn": 4,
-                    "startOffset": 125410,
-                    "endColumn": 89,
-                    "endOffset": 125495
+                    "startOffset": 125248,
+                    "endLine": 1543,
+                    "endColumn": 12,
+                    "endOffset": 125387
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6360,21 +6336,10 @@
                 "to": {
                     "startLine": 1544,
                     "startColumn": 4,
-                    "startOffset": 125500,
-                    "endColumn": 75,
-                    "endOffset": 125571
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1545,
-                    "startColumn": 4,
-                    "startOffset": 125576,
-                    "endColumn": 103,
-                    "endOffset": 125675
+                    "startOffset": 125392,
+                    "endLine": 1545,
+                    "endColumn": 12,
+                    "endOffset": 125525
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6384,9 +6349,9 @@
                 "to": {
                     "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 125680,
-                    "endColumn": 89,
-                    "endOffset": 125765
+                    "startOffset": 125530,
+                    "endColumn": 65,
+                    "endOffset": 125591
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6396,9 +6361,9 @@
                 "to": {
                     "startLine": 1547,
                     "startColumn": 4,
-                    "startOffset": 125770,
-                    "endColumn": 101,
-                    "endOffset": 125867
+                    "startOffset": 125596,
+                    "endColumn": 89,
+                    "endOffset": 125681
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6408,9 +6373,9 @@
                 "to": {
                     "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 125872,
-                    "endColumn": 107,
-                    "endOffset": 125975
+                    "startOffset": 125686,
+                    "endColumn": 75,
+                    "endOffset": 125757
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6420,9 +6385,9 @@
                 "to": {
                     "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 125980,
-                    "endColumn": 107,
-                    "endOffset": 126083
+                    "startOffset": 125762,
+                    "endColumn": 103,
+                    "endOffset": 125861
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6432,9 +6397,9 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 126088,
-                    "endColumn": 99,
-                    "endOffset": 126183
+                    "startOffset": 125866,
+                    "endColumn": 89,
+                    "endOffset": 125951
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6444,9 +6409,9 @@
                 "to": {
                     "startLine": 1551,
                     "startColumn": 4,
-                    "startOffset": 126188,
-                    "endColumn": 79,
-                    "endOffset": 126263
+                    "startOffset": 125956,
+                    "endColumn": 101,
+                    "endOffset": 126053
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6456,9 +6421,9 @@
                 "to": {
                     "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 126268,
-                    "endColumn": 91,
-                    "endOffset": 126355
+                    "startOffset": 126058,
+                    "endColumn": 107,
+                    "endOffset": 126161
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6468,9 +6433,9 @@
                 "to": {
                     "startLine": 1553,
                     "startColumn": 4,
-                    "startOffset": 126360,
-                    "endColumn": 97,
-                    "endOffset": 126453
+                    "startOffset": 126166,
+                    "endColumn": 107,
+                    "endOffset": 126269
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6480,10 +6445,21 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 126458,
-                    "endLine": 1555,
-                    "endColumn": 12,
-                    "endOffset": 126563
+                    "startOffset": 126274,
+                    "endColumn": 99,
+                    "endOffset": 126369
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1555,
+                    "startColumn": 4,
+                    "startOffset": 126374,
+                    "endColumn": 79,
+                    "endOffset": 126449
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6493,9 +6469,9 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 126568,
-                    "endColumn": 77,
-                    "endOffset": 126641
+                    "startOffset": 126454,
+                    "endColumn": 91,
+                    "endOffset": 126541
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6505,9 +6481,9 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 126646,
-                    "endColumn": 105,
-                    "endOffset": 126747
+                    "startOffset": 126546,
+                    "endColumn": 97,
+                    "endOffset": 126639
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6517,21 +6493,10 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 126752,
-                    "endColumn": 91,
-                    "endOffset": 126839
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1559,
-                    "startColumn": 4,
-                    "startOffset": 126844,
-                    "endColumn": 103,
-                    "endOffset": 126943
+                    "startOffset": 126644,
+                    "endLine": 1559,
+                    "endColumn": 12,
+                    "endOffset": 126749
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6541,9 +6506,9 @@
                 "to": {
                     "startLine": 1560,
                     "startColumn": 4,
-                    "startOffset": 126948,
-                    "endColumn": 109,
-                    "endOffset": 127053
+                    "startOffset": 126754,
+                    "endColumn": 77,
+                    "endOffset": 126827
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6553,10 +6518,21 @@
                 "to": {
                     "startLine": 1561,
                     "startColumn": 4,
-                    "startOffset": 127058,
-                    "endLine": 1562,
-                    "endColumn": 12,
-                    "endOffset": 127175
+                    "startOffset": 126832,
+                    "endColumn": 105,
+                    "endOffset": 126933
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1562,
+                    "startColumn": 4,
+                    "startOffset": 126938,
+                    "endColumn": 91,
+                    "endOffset": 127025
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6566,10 +6542,34 @@
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 127180,
+                    "startOffset": 127030,
+                    "endColumn": 103,
+                    "endOffset": 127129
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1564,
+                    "startColumn": 4,
+                    "startOffset": 127134,
+                    "endColumn": 109,
+                    "endOffset": 127239
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1565,
+                    "startColumn": 4,
+                    "startOffset": 127244,
                     "endLine": 1566,
                     "endColumn": 12,
-                    "endOffset": 127338
+                    "endOffset": 127361
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6579,10 +6579,10 @@
                 "to": {
                     "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 127343,
+                    "startOffset": 127366,
                     "endLine": 1570,
                     "endColumn": 12,
-                    "endOffset": 127495
+                    "endOffset": 127524
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6592,10 +6592,23 @@
                 "to": {
                     "startLine": 1571,
                     "startColumn": 4,
-                    "startOffset": 127500,
-                    "endLine": 1575,
+                    "startOffset": 127529,
+                    "endLine": 1574,
                     "endColumn": 12,
-                    "endOffset": 127797
+                    "endOffset": 127681
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1575,
+                    "startColumn": 4,
+                    "startOffset": 127686,
+                    "endLine": 1579,
+                    "endColumn": 12,
+                    "endOffset": 127983
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-appinvite\\9.0.2\\res\\values\\values.xml"
@@ -6603,11 +6616,11 @@
             },
             {
                 "to": {
-                    "startLine": 1576,
+                    "startLine": 1580,
                     "startColumn": 4,
-                    "startOffset": 127802,
+                    "startOffset": 127988,
                     "endColumn": 95,
-                    "endOffset": 127893
+                    "endOffset": 128079
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-appinvite\\9.0.2\\res\\values\\values.xml"
@@ -6615,12 +6628,12 @@
             },
             {
                 "to": {
-                    "startLine": 1577,
+                    "startLine": 1581,
                     "startColumn": 4,
-                    "startOffset": 127898,
-                    "endLine": 1584,
+                    "startOffset": 128084,
+                    "endLine": 1588,
                     "endColumn": 10,
-                    "endOffset": 128317
+                    "endOffset": 128503
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.0.2\\res\\values\\values.xml"
@@ -6628,12 +6641,12 @@
             },
             {
                 "to": {
-                    "startLine": 1585,
+                    "startLine": 1589,
                     "startColumn": 4,
-                    "startOffset": 128322,
-                    "endLine": 1595,
+                    "startOffset": 128508,
+                    "endLine": 1599,
                     "endColumn": 12,
-                    "endOffset": 129071
+                    "endOffset": 129257
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values\\values.xml"
@@ -6641,72 +6654,24 @@
             },
             {
                 "to": {
-                    "startLine": 1596,
+                    "startLine": 1600,
                     "startColumn": 4,
-                    "startOffset": 129076,
-                    "endLine": 1606,
+                    "startOffset": 129262,
+                    "endLine": 1610,
                     "endColumn": 12,
-                    "endOffset": 129820
+                    "endOffset": 130006
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1607,
-                    "startColumn": 4,
-                    "startOffset": 129825,
-                    "endColumn": 79,
-                    "endOffset": 129900
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1608,
-                    "startColumn": 4,
-                    "startOffset": 129905,
-                    "endColumn": 99,
-                    "endOffset": 130000
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1609,
-                    "startColumn": 4,
-                    "startOffset": 130005,
-                    "endColumn": 89,
-                    "endOffset": 130090
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1610,
-                    "startColumn": 4,
-                    "startOffset": 130095,
-                    "endColumn": 109,
-                    "endOffset": 130200
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1611,
                     "startColumn": 4,
-                    "startOffset": 130205,
-                    "endColumn": 91,
-                    "endOffset": 130292
+                    "startOffset": 130011,
+                    "endColumn": 79,
+                    "endOffset": 130086
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6716,62 +6681,9 @@
                 "to": {
                     "startLine": 1612,
                     "startColumn": 4,
-                    "startOffset": 130297,
-                    "endLine": 1619,
-                    "endColumn": 12,
-                    "endOffset": 130821
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1620,
-                    "startColumn": 4,
-                    "startOffset": 130826,
-                    "endLine": 1622,
-                    "endColumn": 12,
-                    "endOffset": 131005
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1623,
-                    "startColumn": 4,
-                    "startOffset": 131010,
-                    "endLine": 1630,
-                    "endColumn": 12,
-                    "endOffset": 131534
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1631,
-                    "startColumn": 4,
-                    "startOffset": 131539,
-                    "endLine": 1643,
-                    "endColumn": 12,
-                    "endOffset": 132538
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.0.2\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1644,
-                    "startColumn": 4,
-                    "startOffset": 132543,
-                    "endLine": 1645,
-                    "endColumn": 12,
-                    "endOffset": 132638
+                    "startOffset": 130091,
+                    "endColumn": 99,
+                    "endOffset": 130186
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6779,25 +6691,100 @@
             },
             {
                 "to": {
-                    "startLine": 1646,
+                    "startLine": 1613,
                     "startColumn": 4,
-                    "startOffset": 132643,
+                    "startOffset": 130191,
+                    "endColumn": 89,
+                    "endOffset": 130276
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1614,
+                    "startColumn": 4,
+                    "startOffset": 130281,
+                    "endColumn": 109,
+                    "endOffset": 130386
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1615,
+                    "startColumn": 4,
+                    "startOffset": 130391,
+                    "endColumn": 91,
+                    "endOffset": 130478
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1616,
+                    "startColumn": 4,
+                    "startOffset": 130483,
+                    "endLine": 1623,
+                    "endColumn": 12,
+                    "endOffset": 131007
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1624,
+                    "startColumn": 4,
+                    "startOffset": 131012,
+                    "endLine": 1626,
+                    "endColumn": 12,
+                    "endOffset": 131191
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1627,
+                    "startColumn": 4,
+                    "startOffset": 131196,
+                    "endLine": 1634,
+                    "endColumn": 12,
+                    "endOffset": 131720
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1635,
+                    "startColumn": 4,
+                    "startOffset": 131725,
                     "endLine": 1647,
                     "endColumn": 12,
-                    "endOffset": 132750
+                    "endOffset": 132724
                 },
                 "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.0.2\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1648,
                     "startColumn": 4,
-                    "startOffset": 132755,
+                    "startOffset": 132729,
                     "endLine": 1649,
                     "endColumn": 12,
-                    "endOffset": 132864
+                    "endOffset": 132824
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6807,10 +6794,10 @@
                 "to": {
                     "startLine": 1650,
                     "startColumn": 4,
-                    "startOffset": 132869,
+                    "startOffset": 132829,
                     "endLine": 1651,
                     "endColumn": 12,
-                    "endOffset": 132980
+                    "endOffset": 132936
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6820,10 +6807,10 @@
                 "to": {
                     "startLine": 1652,
                     "startColumn": 4,
-                    "startOffset": 132985,
+                    "startOffset": 132941,
                     "endLine": 1653,
                     "endColumn": 12,
-                    "endOffset": 133096
+                    "endOffset": 133050
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6833,21 +6820,10 @@
                 "to": {
                     "startLine": 1654,
                     "startColumn": 4,
-                    "startOffset": 133101,
-                    "endColumn": 93,
-                    "endOffset": 133190
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1655,
-                    "startColumn": 4,
-                    "startOffset": 133195,
-                    "endColumn": 113,
-                    "endOffset": 133304
+                    "startOffset": 133055,
+                    "endLine": 1655,
+                    "endColumn": 12,
+                    "endOffset": 133166
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6857,9 +6833,10 @@
                 "to": {
                     "startLine": 1656,
                     "startColumn": 4,
-                    "startOffset": 133309,
-                    "endColumn": 111,
-                    "endOffset": 133416
+                    "startOffset": 133171,
+                    "endLine": 1657,
+                    "endColumn": 12,
+                    "endOffset": 133282
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6867,12 +6844,11 @@
             },
             {
                 "to": {
-                    "startLine": 1657,
+                    "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 133421,
-                    "endLine": 1658,
-                    "endColumn": 12,
-                    "endOffset": 133518
+                    "startOffset": 133287,
+                    "endColumn": 93,
+                    "endOffset": 133376
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6882,10 +6858,21 @@
                 "to": {
                     "startLine": 1659,
                     "startColumn": 4,
-                    "startOffset": 133523,
-                    "endLine": 1660,
-                    "endColumn": 12,
-                    "endOffset": 133638
+                    "startOffset": 133381,
+                    "endColumn": 113,
+                    "endOffset": 133490
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1660,
+                    "startColumn": 4,
+                    "startOffset": 133495,
+                    "endColumn": 111,
+                    "endOffset": 133602
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6895,10 +6882,10 @@
                 "to": {
                     "startLine": 1661,
                     "startColumn": 4,
-                    "startOffset": 133643,
+                    "startOffset": 133607,
                     "endLine": 1662,
                     "endColumn": 12,
-                    "endOffset": 133760
+                    "endOffset": 133704
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6908,21 +6895,10 @@
                 "to": {
                     "startLine": 1663,
                     "startColumn": 4,
-                    "startOffset": 133765,
-                    "endColumn": 81,
-                    "endOffset": 133842
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1664,
-                    "startColumn": 4,
-                    "startOffset": 133847,
-                    "endColumn": 103,
-                    "endOffset": 133946
+                    "startOffset": 133709,
+                    "endLine": 1664,
+                    "endColumn": 12,
+                    "endOffset": 133824
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6932,21 +6908,10 @@
                 "to": {
                     "startLine": 1665,
                     "startColumn": 4,
-                    "startOffset": 133951,
-                    "endColumn": 119,
-                    "endOffset": 134066
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1666,
-                    "startColumn": 4,
-                    "startOffset": 134071,
-                    "endColumn": 125,
-                    "endOffset": 134192
+                    "startOffset": 133829,
+                    "endLine": 1666,
+                    "endColumn": 12,
+                    "endOffset": 133946
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6956,9 +6921,9 @@
                 "to": {
                     "startLine": 1667,
                     "startColumn": 4,
-                    "startOffset": 134197,
-                    "endColumn": 97,
-                    "endOffset": 134290
+                    "startOffset": 133951,
+                    "endColumn": 81,
+                    "endOffset": 134028
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6968,9 +6933,9 @@
                 "to": {
                     "startLine": 1668,
                     "startColumn": 4,
-                    "startOffset": 134295,
-                    "endColumn": 93,
-                    "endOffset": 134384
+                    "startOffset": 134033,
+                    "endColumn": 103,
+                    "endOffset": 134132
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6980,9 +6945,9 @@
                 "to": {
                     "startLine": 1669,
                     "startColumn": 4,
-                    "startOffset": 134389,
-                    "endColumn": 87,
-                    "endOffset": 134472
+                    "startOffset": 134137,
+                    "endColumn": 119,
+                    "endOffset": 134252
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -6992,9 +6957,9 @@
                 "to": {
                     "startLine": 1670,
                     "startColumn": 4,
-                    "startOffset": 134477,
-                    "endColumn": 111,
-                    "endOffset": 134584
+                    "startOffset": 134257,
+                    "endColumn": 125,
+                    "endOffset": 134378
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7004,9 +6969,9 @@
                 "to": {
                     "startLine": 1671,
                     "startColumn": 4,
-                    "startOffset": 134589,
-                    "endColumn": 115,
-                    "endOffset": 134700
+                    "startOffset": 134383,
+                    "endColumn": 97,
+                    "endOffset": 134476
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7016,9 +6981,9 @@
                 "to": {
                     "startLine": 1672,
                     "startColumn": 4,
-                    "startOffset": 134705,
-                    "endColumn": 121,
-                    "endOffset": 134822
+                    "startOffset": 134481,
+                    "endColumn": 93,
+                    "endOffset": 134570
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7028,9 +6993,9 @@
                 "to": {
                     "startLine": 1673,
                     "startColumn": 4,
-                    "startOffset": 134827,
-                    "endColumn": 111,
-                    "endOffset": 134934
+                    "startOffset": 134575,
+                    "endColumn": 87,
+                    "endOffset": 134658
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7040,10 +7005,33 @@
                 "to": {
                     "startLine": 1674,
                     "startColumn": 4,
-                    "startOffset": 134939,
-                    "endLine": 1676,
-                    "endColumn": 12,
-                    "endOffset": 135109
+                    "startOffset": 134663,
+                    "endColumn": 111,
+                    "endOffset": 134770
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1675,
+                    "startColumn": 4,
+                    "startOffset": 134775,
+                    "endColumn": 115,
+                    "endOffset": 134886
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1676,
+                    "startColumn": 4,
+                    "startOffset": 134891,
+                    "endColumn": 121,
+                    "endOffset": 135008
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7053,9 +7041,9 @@
                 "to": {
                     "startLine": 1677,
                     "startColumn": 4,
-                    "startOffset": 135114,
-                    "endColumn": 115,
-                    "endOffset": 135225
+                    "startOffset": 135013,
+                    "endColumn": 111,
+                    "endOffset": 135120
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7065,34 +7053,22 @@
                 "to": {
                     "startLine": 1678,
                     "startColumn": 4,
-                    "startOffset": 135230,
-                    "endColumn": 85,
-                    "endOffset": 135311
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1679,
-                    "startColumn": 4,
-                    "startOffset": 135316,
-                    "endColumn": 91,
-                    "endOffset": 135403
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1680,
-                    "startColumn": 4,
-                    "startOffset": 135408,
-                    "endLine": 1681,
+                    "startOffset": 135125,
+                    "endLine": 1680,
                     "endColumn": 12,
-                    "endOffset": 135515
+                    "endOffset": 135295
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1681,
+                    "startColumn": 4,
+                    "startOffset": 135300,
+                    "endColumn": 115,
+                    "endOffset": 135411
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7102,10 +7078,21 @@
                 "to": {
                     "startLine": 1682,
                     "startColumn": 4,
-                    "startOffset": 135520,
-                    "endLine": 1683,
-                    "endColumn": 12,
-                    "endOffset": 135639
+                    "startOffset": 135416,
+                    "endColumn": 85,
+                    "endOffset": 135497
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1683,
+                    "startColumn": 4,
+                    "startOffset": 135502,
+                    "endColumn": 91,
+                    "endOffset": 135589
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7115,22 +7102,10 @@
                 "to": {
                     "startLine": 1684,
                     "startColumn": 4,
-                    "startOffset": 135644,
-                    "endColumn": 66,
-                    "endOffset": 135706
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1685,
-                    "startColumn": 4,
-                    "startOffset": 135711,
-                    "endLine": 1686,
+                    "startOffset": 135594,
+                    "endLine": 1685,
                     "endColumn": 12,
-                    "endOffset": 135832
+                    "endOffset": 135701
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7138,11 +7113,12 @@
             },
             {
                 "to": {
-                    "startLine": 1687,
+                    "startLine": 1686,
                     "startColumn": 4,
-                    "startOffset": 135837,
-                    "endColumn": 67,
-                    "endOffset": 135900
+                    "startOffset": 135706,
+                    "endLine": 1687,
+                    "endColumn": 12,
+                    "endOffset": 135825
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7152,10 +7128,9 @@
                 "to": {
                     "startLine": 1688,
                     "startColumn": 4,
-                    "startOffset": 135905,
-                    "endLine": 1689,
-                    "endColumn": 12,
-                    "endOffset": 136028
+                    "startOffset": 135830,
+                    "endColumn": 66,
+                    "endOffset": 135892
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7163,12 +7138,24 @@
             },
             {
                 "to": {
-                    "startLine": 1690,
+                    "startLine": 1689,
                     "startColumn": 4,
-                    "startOffset": 136033,
-                    "endLine": 1691,
+                    "startOffset": 135897,
+                    "endLine": 1690,
                     "endColumn": 12,
-                    "endOffset": 136172
+                    "endOffset": 136018
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1691,
+                    "startColumn": 4,
+                    "startOffset": 136023,
+                    "endColumn": 67,
+                    "endOffset": 136086
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7178,10 +7165,10 @@
                 "to": {
                     "startLine": 1692,
                     "startColumn": 4,
-                    "startOffset": 136177,
+                    "startOffset": 136091,
                     "endLine": 1693,
                     "endColumn": 12,
-                    "endOffset": 136300
+                    "endOffset": 136214
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7191,21 +7178,10 @@
                 "to": {
                     "startLine": 1694,
                     "startColumn": 4,
-                    "startOffset": 136305,
-                    "endColumn": 68,
-                    "endOffset": 136369
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1695,
-                    "startColumn": 4,
-                    "startOffset": 136374,
-                    "endColumn": 94,
-                    "endOffset": 136464
+                    "startOffset": 136219,
+                    "endLine": 1695,
+                    "endColumn": 12,
+                    "endOffset": 136358
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7215,21 +7191,10 @@
                 "to": {
                     "startLine": 1696,
                     "startColumn": 4,
-                    "startOffset": 136469,
-                    "endColumn": 114,
-                    "endOffset": 136579
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1697,
-                    "startColumn": 4,
-                    "startOffset": 136584,
-                    "endColumn": 112,
-                    "endOffset": 136692
+                    "startOffset": 136363,
+                    "endLine": 1697,
+                    "endColumn": 12,
+                    "endOffset": 136486
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7239,9 +7204,9 @@
                 "to": {
                     "startLine": 1698,
                     "startColumn": 4,
-                    "startOffset": 136697,
-                    "endColumn": 98,
-                    "endOffset": 136791
+                    "startOffset": 136491,
+                    "endColumn": 68,
+                    "endOffset": 136555
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7251,9 +7216,9 @@
                 "to": {
                     "startLine": 1699,
                     "startColumn": 4,
-                    "startOffset": 136796,
-                    "endColumn": 108,
-                    "endOffset": 136900
+                    "startOffset": 136560,
+                    "endColumn": 94,
+                    "endOffset": 136650
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7263,9 +7228,9 @@
                 "to": {
                     "startLine": 1700,
                     "startColumn": 4,
-                    "startOffset": 136905,
-                    "endColumn": 110,
-                    "endOffset": 137011
+                    "startOffset": 136655,
+                    "endColumn": 114,
+                    "endOffset": 136765
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7275,9 +7240,9 @@
                 "to": {
                     "startLine": 1701,
                     "startColumn": 4,
-                    "startOffset": 137016,
-                    "endColumn": 110,
-                    "endOffset": 137122
+                    "startOffset": 136770,
+                    "endColumn": 112,
+                    "endOffset": 136878
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7287,9 +7252,9 @@
                 "to": {
                     "startLine": 1702,
                     "startColumn": 4,
-                    "startOffset": 137127,
-                    "endColumn": 100,
-                    "endOffset": 137223
+                    "startOffset": 136883,
+                    "endColumn": 98,
+                    "endOffset": 136977
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7299,9 +7264,9 @@
                 "to": {
                     "startLine": 1703,
                     "startColumn": 4,
-                    "startOffset": 137228,
-                    "endColumn": 104,
-                    "endOffset": 137328
+                    "startOffset": 136982,
+                    "endColumn": 108,
+                    "endOffset": 137086
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7311,10 +7276,21 @@
                 "to": {
                     "startLine": 1704,
                     "startColumn": 4,
-                    "startOffset": 137333,
-                    "endLine": 1705,
-                    "endColumn": 12,
-                    "endOffset": 137440
+                    "startOffset": 137091,
+                    "endColumn": 110,
+                    "endOffset": 137197
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1705,
+                    "startColumn": 4,
+                    "startOffset": 137202,
+                    "endColumn": 110,
+                    "endOffset": 137308
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7324,10 +7300,21 @@
                 "to": {
                     "startLine": 1706,
                     "startColumn": 4,
-                    "startOffset": 137445,
-                    "endLine": 1707,
-                    "endColumn": 12,
-                    "endOffset": 137570
+                    "startOffset": 137313,
+                    "endColumn": 100,
+                    "endOffset": 137409
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1707,
+                    "startColumn": 4,
+                    "startOffset": 137414,
+                    "endColumn": 104,
+                    "endOffset": 137514
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7337,21 +7324,10 @@
                 "to": {
                     "startLine": 1708,
                     "startColumn": 4,
-                    "startOffset": 137575,
-                    "endColumn": 90,
-                    "endOffset": 137661
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1709,
-                    "startColumn": 4,
-                    "startOffset": 137666,
-                    "endColumn": 122,
-                    "endOffset": 137784
+                    "startOffset": 137519,
+                    "endLine": 1709,
+                    "endColumn": 12,
+                    "endOffset": 137626
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7361,10 +7337,10 @@
                 "to": {
                     "startLine": 1710,
                     "startColumn": 4,
-                    "startOffset": 137789,
+                    "startOffset": 137631,
                     "endLine": 1711,
                     "endColumn": 12,
-                    "endOffset": 137896
+                    "endOffset": 137756
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7374,9 +7350,9 @@
                 "to": {
                     "startLine": 1712,
                     "startColumn": 4,
-                    "startOffset": 137901,
-                    "endColumn": 85,
-                    "endOffset": 137982
+                    "startOffset": 137761,
+                    "endColumn": 90,
+                    "endOffset": 137847
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7386,9 +7362,9 @@
                 "to": {
                     "startLine": 1713,
                     "startColumn": 4,
-                    "startOffset": 137987,
-                    "endColumn": 103,
-                    "endOffset": 138086
+                    "startOffset": 137852,
+                    "endColumn": 122,
+                    "endOffset": 137970
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7398,10 +7374,10 @@
                 "to": {
                     "startLine": 1714,
                     "startColumn": 4,
-                    "startOffset": 138091,
+                    "startOffset": 137975,
                     "endLine": 1715,
                     "endColumn": 12,
-                    "endOffset": 138194
+                    "endOffset": 138082
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7411,10 +7387,21 @@
                 "to": {
                     "startLine": 1716,
                     "startColumn": 4,
-                    "startOffset": 138199,
-                    "endLine": 1717,
-                    "endColumn": 12,
-                    "endOffset": 138294
+                    "startOffset": 138087,
+                    "endColumn": 85,
+                    "endOffset": 138168
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1717,
+                    "startColumn": 4,
+                    "startOffset": 138173,
+                    "endColumn": 103,
+                    "endOffset": 138272
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7424,10 +7411,10 @@
                 "to": {
                     "startLine": 1718,
                     "startColumn": 4,
-                    "startOffset": 138299,
+                    "startOffset": 138277,
                     "endLine": 1719,
                     "endColumn": 12,
-                    "endOffset": 138412
+                    "endOffset": 138380
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7437,10 +7424,10 @@
                 "to": {
                     "startLine": 1720,
                     "startColumn": 4,
-                    "startOffset": 138417,
+                    "startOffset": 138385,
                     "endLine": 1721,
                     "endColumn": 12,
-                    "endOffset": 138516
+                    "endOffset": 138480
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7450,10 +7437,10 @@
                 "to": {
                     "startLine": 1722,
                     "startColumn": 4,
-                    "startOffset": 138521,
+                    "startOffset": 138485,
                     "endLine": 1723,
                     "endColumn": 12,
-                    "endOffset": 138620
+                    "endOffset": 138598
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7463,10 +7450,10 @@
                 "to": {
                     "startLine": 1724,
                     "startColumn": 4,
-                    "startOffset": 138625,
+                    "startOffset": 138603,
                     "endLine": 1725,
                     "endColumn": 12,
-                    "endOffset": 138746
+                    "endOffset": 138702
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7476,21 +7463,10 @@
                 "to": {
                     "startLine": 1726,
                     "startColumn": 4,
-                    "startOffset": 138751,
-                    "endColumn": 87,
-                    "endOffset": 138834
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1727,
-                    "startColumn": 4,
-                    "startOffset": 138839,
-                    "endColumn": 107,
-                    "endOffset": 138942
+                    "startOffset": 138707,
+                    "endLine": 1727,
+                    "endColumn": 12,
+                    "endOffset": 138806
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7500,21 +7476,10 @@
                 "to": {
                     "startLine": 1728,
                     "startColumn": 4,
-                    "startOffset": 138947,
-                    "endColumn": 99,
-                    "endOffset": 139042
-                },
-                "from": {
-                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1729,
-                    "startColumn": 4,
-                    "startOffset": 139047,
-                    "endColumn": 89,
-                    "endOffset": 139132
+                    "startOffset": 138811,
+                    "endLine": 1729,
+                    "endColumn": 12,
+                    "endOffset": 138932
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7524,9 +7489,9 @@
                 "to": {
                     "startLine": 1730,
                     "startColumn": 4,
-                    "startOffset": 139137,
-                    "endColumn": 109,
-                    "endOffset": 139242
+                    "startOffset": 138937,
+                    "endColumn": 87,
+                    "endOffset": 139020
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7536,9 +7501,9 @@
                 "to": {
                     "startLine": 1731,
                     "startColumn": 4,
-                    "startOffset": 139247,
-                    "endColumn": 83,
-                    "endOffset": 139326
+                    "startOffset": 139025,
+                    "endColumn": 107,
+                    "endOffset": 139128
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7548,9 +7513,9 @@
                 "to": {
                     "startLine": 1732,
                     "startColumn": 4,
-                    "startOffset": 139331,
-                    "endColumn": 83,
-                    "endOffset": 139410
+                    "startOffset": 139133,
+                    "endColumn": 99,
+                    "endOffset": 139228
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7560,9 +7525,9 @@
                 "to": {
                     "startLine": 1733,
                     "startColumn": 4,
-                    "startOffset": 139415,
-                    "endColumn": 53,
-                    "endOffset": 139464
+                    "startOffset": 139233,
+                    "endColumn": 89,
+                    "endOffset": 139318
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7572,9 +7537,9 @@
                 "to": {
                     "startLine": 1734,
                     "startColumn": 4,
-                    "startOffset": 139469,
-                    "endColumn": 63,
-                    "endOffset": 139528
+                    "startOffset": 139323,
+                    "endColumn": 109,
+                    "endOffset": 139428
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7584,9 +7549,9 @@
                 "to": {
                     "startLine": 1735,
                     "startColumn": 4,
-                    "startOffset": 139533,
-                    "endColumn": 105,
-                    "endOffset": 139634
+                    "startOffset": 139433,
+                    "endColumn": 83,
+                    "endOffset": 139512
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7596,9 +7561,9 @@
                 "to": {
                     "startLine": 1736,
                     "startColumn": 4,
-                    "startOffset": 139639,
-                    "endColumn": 109,
-                    "endOffset": 139744
+                    "startOffset": 139517,
+                    "endColumn": 83,
+                    "endOffset": 139596
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7608,9 +7573,9 @@
                 "to": {
                     "startLine": 1737,
                     "startColumn": 4,
-                    "startOffset": 139749,
-                    "endColumn": 83,
-                    "endOffset": 139828
+                    "startOffset": 139601,
+                    "endColumn": 53,
+                    "endOffset": 139650
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7620,9 +7585,9 @@
                 "to": {
                     "startLine": 1738,
                     "startColumn": 4,
-                    "startOffset": 139833,
-                    "endColumn": 119,
-                    "endOffset": 139948
+                    "startOffset": 139655,
+                    "endColumn": 63,
+                    "endOffset": 139714
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
@@ -7632,10 +7597,58 @@
                 "to": {
                     "startLine": 1739,
                     "startColumn": 4,
-                    "startOffset": 139953,
-                    "endLine": 1746,
+                    "startOffset": 139719,
+                    "endColumn": 105,
+                    "endOffset": 139820
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1740,
+                    "startColumn": 4,
+                    "startOffset": 139825,
+                    "endColumn": 109,
+                    "endOffset": 139930
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1741,
+                    "startColumn": 4,
+                    "startOffset": 139935,
+                    "endColumn": 83,
+                    "endOffset": 140014
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1742,
+                    "startColumn": 4,
+                    "startOffset": 140019,
+                    "endColumn": 119,
+                    "endOffset": 140134
+                },
+                "from": {
+                    "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1743,
+                    "startColumn": 4,
+                    "startOffset": 140139,
+                    "endLine": 1750,
                     "endColumn": 12,
-                    "endOffset": 140468
+                    "endOffset": 140654
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values\\values.xml"
@@ -7643,12 +7656,12 @@
             },
             {
                 "to": {
-                    "startLine": 1747,
+                    "startLine": 1751,
                     "startColumn": 4,
-                    "startOffset": 140473,
-                    "endLine": 1754,
+                    "startOffset": 140659,
+                    "endLine": 1758,
                     "endColumn": 12,
-                    "endOffset": 140975
+                    "endOffset": 141161
                 },
                 "from": {
                     "file": "D:\\GitHub\\projetAndroid_interfaceMappingWirelessNetwork_L3Info2015_16\\MappingWifi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values\\values.xml"

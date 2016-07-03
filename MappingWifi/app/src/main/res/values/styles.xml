@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="ListWifi" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
 </resources>

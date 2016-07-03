@@ -6,7 +6,9 @@
     <ListView
         android:layout_width="match_parent"
         android:layout_height="444dp"
-        android:id="@+id/listView" />
+        android:id="@+id/listView"
+        style="@style/ListWifi"
+        />
 
     <GridLayout
         android:layout_width="match_parent"
